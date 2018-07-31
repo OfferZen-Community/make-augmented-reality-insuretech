@@ -19,6 +19,7 @@ The Make Space will be open all day from 8am, you're welcome to spend the whole 
 - Your laptop
 - Your cellphone
 - Any tablets or extra devices you'd like to play with
+- All your friends
 
 ### Preparing for the day
 
