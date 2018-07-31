@@ -23,7 +23,7 @@ The Make Space will be open all day from 8am, you're welcome to spend the whole 
 
 ### Preparing for the day
 
-- Register your Make account at [make.offerzen.com](https://make.offerzen.com) and then [whatsapp Dan](https://wa.me/27760798924) to receive your invitation to Root Insurance
+- Register your Make account at [make.offerzen.com](https://make.offerzen.com) and then [whatsapp Dan](https://wa.me/27760798924) to receive your invitation to Root Insurance and Make Slack
 - On your laptop, install Unity, Vuforia, and any extra components you want e.g. Android build or iOS build depending on what device you want to deploy to. If you're deploying to iOS, make sure you have [XCode installed](https://developer.apple.com/xcode/)
 - [Install nodejs](https://nodejs.org/en/download/)
 
