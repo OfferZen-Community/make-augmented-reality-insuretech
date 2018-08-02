@@ -38,6 +38,18 @@ The community of Make developers is actively involved in building each new cours
 - [ARToolkit for Unity](https://github.com/artoolkit/arunity5)
 - [Augmented Reality in 10 lines of HTML](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 
+
+### Cool things to build
+
+- *Add your ideas here via pull requests!*
+- A virtual Root cap that gets placed on your head
+- Creative animations for destroying the virtual Root cap
+- Detecting objects in the room (e.g. preset electronics) and quoting them for gadget insurance
+- Augmenting the maker photo wall to interactive / add personal quotes by detecting Maker faces using image targets
+- Detecting cozmo cubes to create virtual cars that can be driven around by hand and crash into eachother
+- A portal in the Make Space. Bonus points if it connects to a cool video feed like live ISS footage
+
+
 ### Cool AR stuff
 - [Peter Jackson's AR film preview](https://www.youtube.com/watch?v=eDxzlwEriAw&frags=pl%2Cwn)
 - [AR chemistry](https://www.youtube.com/watch?v=DXLyBQTS5-w)
