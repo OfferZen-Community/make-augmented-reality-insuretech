@@ -9,7 +9,7 @@ The Make Space will be open all day - at **9am we'll be discussing goals for the
 
 ### How Make builds courses
 
-The community of Make developers is actively involved in building each new course. As an early contributor, you'll be helping test AR tech stacks, try out Root's numerous insurance modules, dream up and build creative AR and insurance project ideas, and figure out how to make the learning experience awesome and worthwhile for future makers. You'll also get to hang out with a cool group of AR/Insuretech enthusiasts :)
+The community of Make developers is actively involved in building each new course. As an early contributor, you'll be helping test AR tech stacks, try out Root's numerous insurance modules, dream up and build creative AR and insurance project ideas, and figure out how to make the learning experience awesome and worthwhile for future makers. You'll also get to hang out with a cool group of AR/Insuretech enthusiasts :D
 
 
 ### Tech we'll be exploring
