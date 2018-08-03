@@ -8,7 +8,7 @@ The Make Space will be open all day - at **9am we'll be discussing goals for the
 
 
 ### How Make builds courses
-The community of Make developers is actively involved in building each new course. As an early contributor, you'll be helping build AR and Root activities that make the learning experience awesome and worthwhile for future makers, and dreaming up creative AR and Insurance project ideas to take the learning further. You'll also get to hang out with a cool group of AR/Insuretech enthusiasts, and we'll have delicious food and drinks available throughout :)
+The community of Make developers is actively involved in creating each new course. As an early contributor, you'll be helping build AR and Root activities that make the learning experience awesome and worthwhile for future makers, and dreaming up creative AR and Insurance project ideas to take the learning further. You'll also get to hang out with a cool group of AR/Insuretech enthusiasts, and we'll have delicious food and drinks available throughout :)
 
 
 ### Tech we'll be exploring
