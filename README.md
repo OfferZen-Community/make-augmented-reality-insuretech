@@ -15,6 +15,11 @@ The community of Make developers is actively involved in creating each new cours
 - [Root programmable insurance](https://root.co.za/insurance)
 - [Unity](https://unity3d.com) and [Vuforia engine](https://www.vuforia.com/engine.html)
 
+### What we'll be building
+- Maker guides and assets for understanding high-level AR and insurance concepts
+- World-space UI forms for interacting with Root insurance modules
+- AR filters to superimpose Root-branded clothing and creative destruction animations
+- Point-and-insure gadget detection module
 
 ### What to bring
 - Your laptop
@@ -22,26 +27,19 @@ The community of Make developers is actively involved in creating each new cours
 - Any tablets or extra devices you'd like to play with
 - All your dev and designer friends
 
-
 ### Preparing for the day
 - If you haven't already signed up, register your Make account at [make.offerzen.com](https://make.offerzen.com) and then [whatsapp Dan](https://wa.me/27760798924) to receive your invitation to Root Insurance and Make Slack.
 - On your laptop, install Unity, Vuforia, and any extra components you want e.g. Android build or iOS build depending on what device you want to deploy to. If you're deploying to iOS, make sure you have [XCode installed](https://developer.apple.com/xcode/)
 
-
 ### Helpful resources
 - [Getting started with Vuforia in Unity](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)
 
-### What we'll be building
-
-- AR filters to superimpose Root-branded clothing and creative destruction animations
-- World-space UI forms for interacting with Root insurance modules
-- Point-and-insure gadget insurance (better than Pineapple)
-- Detecting cozmo cube targets to generate virtual cars that can be driven around and crash into each other
 
 ### Random cool stuff
 
 ##### Build ideas
 - *Add your own idea via PR!* 
+- Image targets to generate virtual cars that can be driven around and crash into each other
 - Augmenting the maker photo wall to interactive / add personal quotes by detecting Maker faces using image targets
 - A portal in the Make Space. Bonus points if it connects to a cool video feed like live ISS footage
 
