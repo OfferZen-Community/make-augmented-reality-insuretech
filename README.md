@@ -34,7 +34,7 @@ The community of Make developers is actively involved in creating each new cours
 ### What we'll be building
 
 - AR filters to superimpose Root-branded clothing and creative destruction animations
-- World-space UI forms for completing Root insurance steps
+- World-space UI forms for interacting with Root insurance modules
 - Point-and-insure gadget insurance (better than Pineapple)
 - Detecting cozmo cube targets to generate virtual cars that can be driven around and crash into each other
 
