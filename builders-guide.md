@@ -4,6 +4,7 @@ Thanks for contributing to Make's new course - you're awesome 🌈
 
 # Course aims
 _Help future makers, by:_
+
 0. Figuring out sticky bits and compiling ProTips and helpful resources to reduce their friction
 1. Explaining core concepts in AR and Insurance in simple terms
 2. Providing code to reference and build upon
