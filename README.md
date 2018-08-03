@@ -1,3 +1,5 @@
+**[Check out the builder's guide to get started](https://github.com/OfferZen-Make/make-augmented-reality-insuretech/blob/master/builders-guide.md)**
+
 # Make a Make Day: Augmented Reality Insuretech
 
 Join us at the [Cape Town Make Space](https://www.google.com/maps/place/OfferZen+Make+Space+Cape+Town/@-33.9409935,18.398619,13z/data=!4m8!1m2!2m1!1scape+town+make+space!3m4!1s0x1dcc676e2bcd3357:0xc1f861e358f0217e!8m2!3d-33.9277577!4d18.4124513) on **Saturday 4 August** to help build the next Make course.
