@@ -56,27 +56,29 @@ This AR app will be available to makers to learn the Root Insurance flow, from q
 - ID card OCR to auto-fill forms
 
 
-## Virtual car insurance game
+## B) Car insurance game
 
-The aim of this app is to demonstrate the utility of insurance within an AR simulation, and enable makers to get familiar with the mapping of real world objects as AR. Root integration will be stubbed out for now.
+The aim of this app is to demonstrate the utility of insurance within an AR simulation, and enable makers to get familiar with creating controllable AR objects. Root integration will be stubbed out for now.
 
 ### High priority
 - Driving virtual cars and damaging them in collisions (e.g. a race track, or when parking between pillars)
-- 
 
 
-## Point and insure gadget app
+## C) Point-and-insure
 
-This AR app is an upgrade of [Pineapple](http://pineapple.co.za), using live recognition rather than static photo analysis. The goal is to provide makers with modules they can use to classify insurable objects or people, highlight them in AR space, and overlay information showing their insurance status.
+This AR app is an upgrade of [Pineapple](http://pineapple.co.za), using live recognition rather than static photo analysis. The goal is to provide makers with guides and modules to classify insurable objects or people, highlight them in AR space, and overlay information or icons showing an item's insurance status.
 
 ### High priority
 - Find a usable object classification library to detect either a) gadgets, b) household items, or c) people for life insurance
-
+- Figure out how to highlight detected objects and place status icons in the environment
 
 ## Prep activities
-- ?????
+These are small activities provided as a quick intro to initial concepts.
+
+### Low priority
+- ????? Unity sticking points
+- Setting up a root organization, with success-state Slack webhooks
 
 ## Stretch goals
 - Recognizing people from a set of many polaroids (for an augmented Maker wall)
-
-
+- Creating an AR portal
