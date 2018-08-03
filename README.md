@@ -41,14 +41,11 @@ The community of Make developers is actively involved in building each new cours
 
 ### What we'll be building
 
-- Point-and-insure gadget insurance (better than Pineapple)
 - AR filters to superimpose Root-branded clothing and creative destruction animations
 - World-space UI forms for completing Root insurance steps
-
+- Point-and-insure gadget insurance (better than Pineapple)
 - Augmenting the maker photo wall to interactive / add personal quotes by detecting Maker faces using image targets
 - Detecting cozmo cube targets to generate virtual cars that can be driven around by hand and crash into each other
-- A portal in the Make Space. Bonus points if it connects to a cool video feed like live ISS footage
-
 
 ### Cool AR stuff
 
@@ -62,3 +59,6 @@ The community of Make developers is actively involved in building each new cours
 - [AR.js](https://github.com/jeromeetienne/AR.js/blob/master/README.md)
 - [ARToolkit](https://github.com/artoolkit/jsartoolkit5)
 - [Amazon Sumerian](https://aws.amazon.com/sumerian/)
+
+##### Other cool ideas
+- A portal in the Make Space. Bonus points if it connects to a cool video feed like live ISS footage
