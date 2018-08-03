@@ -23,7 +23,7 @@ The community of Make developers is actively involved in building each new cours
 - Your laptop
 - Your cellphone
 - Any tablets or extra devices you'd like to play with
-- All your friends
+- All your dev and designer friends
 
 
 ### Preparing for the day
@@ -47,17 +47,20 @@ The community of Make developers is actively involved in building each new cours
 - Augmenting the maker photo wall to interactive / add personal quotes by detecting Maker faces using image targets
 - Detecting cozmo cube targets to generate virtual cars that can be driven around by hand and crash into each other
 
-### Cool AR stuff
+### Random cool stuff
+
+##### Demos
 
 - [Peter Jackson's AR film preview](https://www.youtube.com/watch?v=eDxzlwEriAw&frags=pl%2Cwn)
 - [AR chemistry](https://www.youtube.com/watch?v=DXLyBQTS5-w)
 
-
-##### Other cool tech
+##### Tech
 
 - [AR.js](https://github.com/jeromeetienne/AR.js/blob/master/README.md)
 - [ARToolkit](https://github.com/artoolkit/jsartoolkit5)
 - [Amazon Sumerian](https://aws.amazon.com/sumerian/)
+- [Detectron](https://github.com/facebookresearch/Detectron)
 
-##### Other cool ideas
+##### Build ideas
 - A portal in the Make Space. Bonus points if it connects to a cool video feed like live ISS footage
+
