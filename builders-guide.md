@@ -10,7 +10,7 @@ _Help future makers, by:_
 2. Providing code to reference and build upon
 3. Coming up with inspiration for creative projects after they've nailed the fundamentals
 
-It's important to note that Make's philosophy is *not to teach a fixed cirriculum*, but rather to enable makers to explore their own interests within the domain of AR and InsureTech. Activities will be provided as primers and starting points for makers to get familiar with concepts in order to be equipped to build their own ideas.
+It's important to note that Make's philosophy is *not to teach a fixed cirriculum*, but rather to enable makers to explore their own interests within the domain of AR and InsureTech. Pre-built activities will be provided as primers and starting points for makers to get familiar with concepts in order to be equipped to build their own ideas.
 
 # Stack we're using
 - Unity
@@ -29,6 +29,12 @@ It's important to note that Make's philosophy is *not to teach a fixed cirriculu
 
 # Things to build / figure out
 
+## AR guides
+_If you find a non-verbose online resource that answers any of these questions, that's ideal_
+- Image targets
+- Environment tracking
+- 
+
 ## Learn Root flow in AR
 
 This AR app will be available to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app with no Root API integration, and let them progressively integrate each step of the process. After fully integrating Root, they can then modify the AR components to their liking if they choose.
@@ -37,6 +43,7 @@ This AR app will be available to makers to learn the Root Insurance flow, from q
 <img src="swag-storyboard-2.jpeg" />
 
 ### High priority
+
 - Prove a working method for interacting with Root API via Unity in JS
   - Directly in Unity, or
   - via a proxy e.g. ngrok
@@ -51,21 +58,25 @@ This AR app will be available to makers to learn the Root Insurance flow, from q
 
 ## Virtual car insurance game
 
-The aim of this app is to demonstrate the utility of insurance within an AR simulation. Root integration will be stubbed out for now.
+The aim of this app is to demonstrate the utility of insurance within an AR simulation, and enable makers to get familiar with the mapping of real world objects as AR. Root integration will be stubbed out for now.
 
+### High priority
+- Driving virtual cars and damaging them in collisions (e.g. a race track, or when parking between pillars)
+- 
 
 
 ## Point and insure gadget app
 
-This AR app is an upgrade of [Pineapple](http://pineapple.co.za), using live recognition rather than static photo analysis. The goal is to provide makers with modules they can use to classify gadgets, highlight them in AR space, and 
+This AR app is an upgrade of [Pineapple](http://pineapple.co.za), using live recognition rather than static photo analysis. The goal is to provide makers with modules they can use to classify insurable objects or people, highlight them in AR space, and overlay information showing their insurance status.
 
 ### High priority
-- Find a usable object classification library to detect types of 
+- Find a usable object classification library to detect either a) gadgets, b) household items, or c) people for life insurance
+
 
 ## Prep activities
-
+- ?????
 
 ## Stretch goals
 - Recognizing people from a set of many polaroids (for an augmented Maker wall)
-- 
+
 
