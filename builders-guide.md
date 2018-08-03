@@ -33,8 +33,8 @@ It's important to note that Make's philosophy is not to teach a cirriculum, but 
 
 This AR app will be available to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app with no Root API integration, and let them progressively integrate each step of the process. After fully integrating Root, they can then modify the AR components to their liking if they choose.
 
-<img src="make-augmented-reality-insuretech/swag-storyboard-1.jpeg" />
-<img src="make-augmented-reality-insuretech/swag-storyboard-2.jpeg" />
+<img src="swag-storyboard-1.jpeg" />
+<img src="swag-storyboard-2.jpeg" />
 
 ### High priority
 - Prove a working method for interacting with Root API via Unity in JS
