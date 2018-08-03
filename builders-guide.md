@@ -22,7 +22,7 @@
 1. Choose something from the list that you're going to figure out
 2. Announce it in #arinsuretech and tag the team e.g. "@course-builders I'm building object recognition in Unity" -> teaming up with others is a good idea
 3. As you progress, dump any thoughts, struggles, realizatons, resources and code snippets in that thread. Just blab away, don't self-censor.
-4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?"
+4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?" If somebody helps you past a blocker, record it.
 5. When you discover something cool, call Dan and the team over to see!
 6. When you have a working prototype, create a new GitHub repo and push the code. Then announce your success to the team on Slack with a link to the repo!
 
@@ -30,6 +30,8 @@
 # Things to build / figure out
 
 ## "Learn Root flow in AR" app
+
+This AR app will be given to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app that 
 
 [screenshot]
 
@@ -41,8 +43,12 @@
 - Forms for input in Unity
 
 ### Low priority
+- Swag destruction animations
 - 
-- 
+
+## Point and insure app
+
+This AR app will be 
 
 ## Prep activities
 
