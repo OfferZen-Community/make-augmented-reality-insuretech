@@ -51,7 +51,6 @@ The community of Make developers is actively involved in building each new cours
 
 - [Peter Jackson's AR film preview](https://www.youtube.com/watch?v=eDxzlwEriAw&frags=pl%2Cwn)
 - [AR chemistry](https://www.youtube.com/watch?v=DXLyBQTS5-w)
-- ...
 
 
 ##### Other cool tech
