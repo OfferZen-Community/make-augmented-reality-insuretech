@@ -1,8 +1,8 @@
 # Make a Make Day: Augmented Reality Insuretech
 
-**The course we're making:** [Build an Augmented Reality app on Root Insurance](http://make.offerzen.com/course/root-insurance-augmented-reality)
+Join us at the [Cape Town Make Space](https://www.google.com/maps/place/OfferZen+Make+Space+Cape+Town/@-33.9409935,18.398619,13z/data=!4m8!1m2!2m1!1scape+town+make+space!3m4!1s0x1dcc676e2bcd3357:0xc1f861e358f0217e!8m2!3d-33.9277577!4d18.4124513) on **Saturday 4 August** to help build the next Make course.
 
-Join us at the [Cape Town Make Space](https://www.google.com/maps/place/OfferZen+Make+Space+Cape+Town/@-33.9409935,18.398619,13z/data=!4m8!1m2!2m1!1scape+town+make+space!3m4!1s0x1dcc676e2bcd3357:0xc1f861e358f0217e!8m2!3d-33.9277577!4d18.4124513) on **Saturday 4 August** to alpha-test the course and explore different tech stacks and AR ideas.
+**The course we're making:** [Build an Augmented Reality app on Root Insurance](http://make.offerzen.com/course/root-insurance-augmented-reality)
 
 The Make Space will be open all day - at **9am we'll be discussing goals for the day**, so it would be great to have you around for that. If you *really* can't make it in the morning, you're welcome to pop in for a few hours later in the day.
 
@@ -36,7 +36,7 @@ The community of Make developers is actively involved in building each new cours
 - AR filters to superimpose Root-branded clothing and creative destruction animations
 - World-space UI forms for completing Root insurance steps
 - Point-and-insure gadget insurance (better than Pineapple)
-- Detecting cozmo cube targets to generate virtual cars that can be driven around by hand and crash into each other
+- Detecting cozmo cube targets to generate virtual cars that can be driven around and crash into each other
 
 ### Random cool stuff
 
