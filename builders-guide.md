@@ -22,7 +22,7 @@ It's important to note that Make's philosophy is not to teach a cirriculum, but 
 1. Choose a particular component from the list of priorities that you'd like to figure out
 2. Announce in #arinsuretech and tag the team e.g. "@course-builders I'm building object recognition in Unity" -> teaming up with others is a good idea
 3. As you progress, dump any thoughts, struggles, realizatons, resources and code snippets in that thread. Just blab away, don't self-censor. All information is valuable.
-4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?" If somebody helps you past a blocker, record it. If you're properly blocked and have no path forward, move onto something else rather than struggling all day.
+4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?" If somebody helps you past a blocker, make sure to capture what you learned. If you're properly blocked and have no path forward, move onto something else rather than struggling all day.
 5. When you discover something cool, call Dan and the team over to see!
 6. When you have a working prototype, create a folder `build/thing-name` in this repo and upload your code to it. Then announce your success to the team on Slack with a link to the folder!
 
