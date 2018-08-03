@@ -14,9 +14,9 @@ _Help future makers, by:_
 It's important to note that Make's philosophy is *not to teach a fixed cirriculum*, but rather to enable makers to explore their own interests within the domain of AR and InsureTech. Pre-built activities will be provided as primers and starting points for makers to get familiar with concepts in order to be equipped to build their own ideas.
 
 # Stack we're using
-- Unity
-- EasyAR
-- Vuforia
+- [Unity](https://unity.com)
+- [EasyAR](https://www.easyar.com)
+- [Vuforia](https://vuforia.com)
 
 # How to be an epic course builder
 0. Communicate with the team as much as possible and keep notes - your experience and discoveries are super valuable!
