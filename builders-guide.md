@@ -32,9 +32,9 @@ It's important to note that Make's philosophy is *not to teach a fixed cirriculu
 
 ## AR guides
 _If you find a non-verbose online resource that answers any of these questions, that's ideal_
-- Image targets
-- Environment tracking
-- 
+- Trackables and image targets
+- Environment mapping and anchors
+- User interaction controls and UI inputs
 
 ## Learn Root flow in AR
 
