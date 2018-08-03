@@ -7,8 +7,9 @@ _Help future makers, by:_
 
 0. Figuring out sticky bits and compiling ProTips and helpful resources to reduce their friction
 1. Explaining core concepts in AR and Insurance in simple terms
-2. Providing code to reference and build upon
-3. Coming up with inspiration for creative projects after they've nailed the fundamentals
+2. Creating interactive activities to solidify core concepts through learning by building
+3. Providing sample code to reference and build upon
+4. Coming up with inspiration for creative projects after they've nailed the fundamentals
 
 It's important to note that Make's philosophy is *not to teach a fixed cirriculum*, but rather to enable makers to explore their own interests within the domain of AR and InsureTech. Pre-built activities will be provided as primers and starting points for makers to get familiar with concepts in order to be equipped to build their own ideas.
 
