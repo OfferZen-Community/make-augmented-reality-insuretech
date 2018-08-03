@@ -3,24 +3,24 @@
 Thanks for contributing to Make's new course - you're awesome 🌈 
 
 # Course aims
-Help future makers, by:
-- Friction reduction & compiling ProTips
-- Explaining core concepts in AR and Insurance
-- Providing code to reference and build upon
-- Coming up with ideas for late-day creative projects
+_Help future makers, by:_
+0. Figuring out sticky bits and compiling ProTips and helpful resources to reduce their friction
+1. Explaining core concepts in AR and Insurance in simple terms
+2. Providing code to reference and build upon
+3. Coming up with inspiration for creative projects after they've nailed the fundamentals
+
+It's important to note that Make's philosophy is not to teach a cirriculum, but rather to enable makers to explore their own interests within the domain of AR and InsureTech.
 
 # Stack we're using
 - Unity
-- Vuforia  } AR
-- EasyAR   } plugins
-
+- EasyAR
+- Vuforia
 
 # How to be an epic course builder
-
 0. Communicate with the team as much as possible and keep notes - your experience and discoveries are super valuable!
-1. Choose something from the list that you'd like to figure out
+1. Choose a particular component from the list of priorities that you'd like to figure out
 2. Announce in #arinsuretech and tag the team e.g. "@course-builders I'm building object recognition in Unity" -> teaming up with others is a good idea
-3. As you progress, dump any thoughts, struggles, realizatons, resources and code snippets in that thread. Just blab away, don't self-censor.
+3. As you progress, dump any thoughts, struggles, realizatons, resources and code snippets in that thread. Just blab away, don't self-censor. All information is valuable.
 4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?" If somebody helps you past a blocker, record it. If you're properly blocked and have no path forward, move onto something else rather than struggling all day.
 5. When you discover something cool, call Dan and the team over to see!
 6. When you have a working prototype, create a folder `build/thing-name` in this repo and upload your code to it. Then announce your success to the team on Slack with a link to the folder!
@@ -28,11 +28,12 @@ Help future makers, by:
 
 # Things to build / figure out
 
-## "Learn Root flow in AR" app
+## Learn Root flow in AR
 
-This AR app will be given to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app with no Root API integration
+This AR app will be available to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app with no Root API integration, and let them progressively integrate each step of the process. After fully integrating Root, they can then modify the AR components to their liking if they choose.
 
-[screenshot]
+<img src="make-augmented-reality-insuretech/swag-storyboard-1.jpeg" />
+<img src="make-augmented-reality-insuretech/swag-storyboard-2.jpeg" />
 
 ### High priority
 - Prove a working method for interacting with Root API via Unity in JS
@@ -43,19 +44,28 @@ This AR app will be given to makers to learn the Root Insurance flow, from quoti
 
 ### Low priority
 - Swag destruction animations
-- 
+- ID card OCR to auto-fill forms
 
-## Point and insure app
 
-This AR app will be 
+## Virtual car insurance game
 
-- Object recognition
+The aim of this app is to demonstrate Root integration will be stubbed out for now.
+
+
+
+## Point and insure gadget app
+
+This AR app is an upgrade of [Pineapple](http://pineapple.co.za), using live recognition rather than static photo analysis. The goal is to provide makers with modules they can use to classify gadgets, highlight them in AR space, and 
+
+### High priority
+- Find a usable 
+- Find a usable 
 
 ## Prep activities
 
-### Root insurance modules
-- list goes here
 
 ## Stretch goals
-- Recognizing people from a set of many polaroids (for the Maker wall)
+- Recognizing people from a set of many polaroids (for an augmented Maker wall)
+- Build an AR portal 
+
 
