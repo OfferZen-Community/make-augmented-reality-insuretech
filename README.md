@@ -41,7 +41,7 @@ The community of Make developers is actively involved in building each new cours
 ### Random cool stuff
 
 ##### Build ideas
-- * Add your own idea via PR! * 
+- *Add your own idea via PR!* 
 - Augmenting the maker photo wall to interactive / add personal quotes by detecting Maker faces using image targets
 - A portal in the Make Space. Bonus points if it connects to a cool video feed like live ISS footage
 
