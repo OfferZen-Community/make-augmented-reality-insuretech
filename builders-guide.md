@@ -14,37 +14,32 @@ Help future makers, by:
 - Vuforia  } AR
 - EasyAR   } plugins
 
-## How to be a course builder
-- Explore
-- Keep good notes
-  - Concepts you learned / misunderstood
-  - Resources, articles, repos you found
 
+# How to be an epic course builder
 
-# Build process
-0. Communicate as much as possible!
+0. Communicate with the team as much as possible and keep notes - your experience and discoveries are super valuable!
 1. Choose something from the list that you'd like to figure out
 2. Announce in #arinsuretech and tag the team e.g. "@course-builders I'm building object recognition in Unity" -> teaming up with others is a good idea
 3. As you progress, dump any thoughts, struggles, realizatons, resources and code snippets in that thread. Just blab away, don't self-censor.
-4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?" If somebody helps you past a blocker, record it.
+4. If you're stuck, ping in Slack e.g. "@course-builders can somebody help me figure out world-space camera angles?" If somebody helps you past a blocker, record it. If you're properly blocked and have no path forward, move onto something else rather than struggling all day.
 5. When you discover something cool, call Dan and the team over to see!
-6. When you have a working prototype, create a new GitHub repo and push the code. Then announce your success to the team on Slack with a link to the repo!
+6. When you have a working prototype, create a folder `build/thing-name` in this repo and upload your code to it. Then announce your success to the team on Slack with a link to the folder!
 
 
 # Things to build / figure out
 
 ## "Learn Root flow in AR" app
 
-This AR app will be given to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app that 
+This AR app will be given to makers to learn the Root Insurance flow, from quoting through to claiming, inside a fun AR context. The goal is to provide a working AR app with no Root API integration
 
 [screenshot]
 
 ### High priority
-- Interacting with Root API via Unity in JS
+- Prove a working method for interacting with Root API via Unity in JS
   - Directly in Unity, or
   - via a proxy e.g. ngrok
-- Augmenting a virtual cap onto player's head (or other virtual swag if that's too complex)
-- Forms for input in Unity
+- Augment a virtual cap onto player's head (or other virtual swag if that's too complex)
+- Build working forms for input in Unity, ideally situated in world space (rather than flat on the screen like web)
 
 ### Low priority
 - Swag destruction animations
