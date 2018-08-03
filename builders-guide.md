@@ -10,7 +10,7 @@ _Help future makers, by:_
 2. Providing code to reference and build upon
 3. Coming up with inspiration for creative projects after they've nailed the fundamentals
 
-It's important to note that Make's philosophy is not to teach a cirriculum, but rather to enable makers to explore their own interests within the domain of AR and InsureTech.
+It's important to note that Make's philosophy is *not to teach a fixed cirriculum*, but rather to enable makers to explore their own interests within the domain of AR and InsureTech. Activities will be provided as primers and starting points for makers to get familiar with concepts in order to be equipped to build their own ideas.
 
 # Stack we're using
 - Unity
@@ -45,12 +45,13 @@ This AR app will be available to makers to learn the Root Insurance flow, from q
 
 ### Low priority
 - Swag destruction animations
+- Money payout animations
 - ID card OCR to auto-fill forms
 
 
 ## Virtual car insurance game
 
-The aim of this app is to demonstrate Root integration will be stubbed out for now.
+The aim of this app is to demonstrate the utility of insurance within an AR simulation. Root integration will be stubbed out for now.
 
 
 
@@ -59,14 +60,12 @@ The aim of this app is to demonstrate Root integration will be stubbed out for n
 This AR app is an upgrade of [Pineapple](http://pineapple.co.za), using live recognition rather than static photo analysis. The goal is to provide makers with modules they can use to classify gadgets, highlight them in AR space, and 
 
 ### High priority
-- Find a usable 
-- Find a usable 
+- Find a usable object classification library to detect types of 
 
 ## Prep activities
 
 
 ## Stretch goals
 - Recognizing people from a set of many polaroids (for an augmented Maker wall)
-- Build an AR portal 
-
+- 
 
