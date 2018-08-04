@@ -66,12 +66,15 @@ This AR app will be available to makers to learn the Root Insurance flow, from q
 - ID card OCR to auto-fill forms
 
 
-## B) Car insurance game
+## B) Insurance simulation
 
 The aim of this app is to demonstrate the utility of insurance within an AR simulation, and enable makers to get familiar with creating controllable AR objects. Root integration will be stubbed out for now.
 
 ### High priority
 - Driving virtual cars and damaging them in collisions (e.g. a race track, or when parking between pillars)
+
+### Low priority
+- Figuring out different sim scenarios e.g. mythical creatures
 
 
 ## C) Point-and-insure
