@@ -27,6 +27,15 @@ It's important to note that Make's philosophy is *not to teach a fixed cirriculu
 5. When you discover something cool, call Dan and the team over to see!
 6. When you have a working prototype, create a folder `build/thing-name` in this repo and upload your code to it. Then announce your success to the team on Slack with a link to the folder!
 
+# Concepts to cover
+- Virtual objects (passive: cap, with physics: car)
+  - On a plane
+  - Detected using targets (playing cards, cozmo cubes)
+- Object and person detection & classification
+- Data overlaying (e.g. text, bounding boxes, icons)
+- Data input forms
+- Presset assets
+- Scripting events and scenes
 
 # Things to build / figure out
 
