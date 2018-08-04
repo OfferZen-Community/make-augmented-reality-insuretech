@@ -72,6 +72,7 @@ The aim of this app is to demonstrate the utility of insurance within an AR simu
 
 ### High priority
 - Driving virtual cars and damaging them in collisions (e.g. a race track, or when parking between pillars)
+- Creating a reliable image target set for cozmo cubes
 
 ### Low priority
 - Figuring out different sim scenarios e.g. mythical creatures
